@@ -45,7 +45,7 @@ A **modern, clean, and responsive fashion e-commerce website** built using **Rea
 ### 6️⃣ Testing & Optimization
 - Tested **responsiveness** across multiple devices.
 - Verified **React Router navigation** works **without page reload**.
-- Cross-browser tested in **Chrome, Firefox, Edge**.
+- Cross-browser tested in **Chrome, Firefox, Edge*.
 
 ## ✨ Key Features
 ✔️ **Multi-page React SPA** with React Router DOM  
